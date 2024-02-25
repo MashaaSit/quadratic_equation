@@ -1,0 +1,18 @@
+# Compiled Object files
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+*.ilk
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+# Visual Studio specific files
+.vscode/
+*.pdb
