@@ -1,5 +1,6 @@
 # Compiled Object files
 *.obj
+*.o
 
 # Precompiled Headers
 *.gch
